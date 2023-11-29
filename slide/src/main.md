@@ -75,7 +75,7 @@ credit: [@TonyCrane](https://github.com/TonyCrane) & [@45gfg9](https://github.co
 
 <!--v-->
 
-## 为什么会有这门课程？
+## 他山之石
 
 - 南京大学[蒋炎岩](https://jyywiki.cn/) 2020 秋《计算机系统基础》「链接与加载选讲」
     - https://jyywiki.cn/ICS/2020/slides/8.slides.html#/4/1
@@ -98,7 +98,7 @@ credit: [@TonyCrane](https://github.com/TonyCrane) & [@45gfg9](https://github.co
 
 - 掌握一系列常用、好用的工具（包括 Git、Vim、Shell、Markdown 等）
 - 增强 CS 专业技能，让你看起来更专业、更像一个 CS 人
-    - 推荐阅读：[「如何让自己看上去、闻上去都像一个 CS 人」](https://blog.hobbitqia.cc/p/5948019b.html)（[CC98 版](https://www.cc98.org/topic/5370849)）
+    - 推荐阅读：[「如何让自己看上去、闻上去都像一个 CS 人」](https://zhuanlan.zhihu.com/p/539692975)
     - 树立起一个 CS 人的思维方式：
         - 学会自己解决问题、自己 debug
         - 学会探索计算机世界、广泛自学的方法
@@ -149,6 +149,13 @@ Command-Line Interface
 <!--v-->
 ## 是什么 & 分类
 - 最原始但相对最快捷的交互方式，focus on program itself
+
+- Linux: bash/zsh
+- Windows: cmd/powershell
+
+不同的终端对应不同的语法，考虑到后续授课需要和一般生产环境实际，我们采用在Windows上模拟的Git Bash操作。
+
+[Git for Windows](https://gitforwindows.org/)
 <!--v-->
 ## 我是谁？我在哪？我要做什么？
 
