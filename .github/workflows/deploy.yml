@@ -13,7 +13,6 @@ jobs:
         persist-credentials: false
     - name: Install and Build
       run: |
-        apt install npm -y
         npm install -g reveal-md
         cd slide/src
         make build
