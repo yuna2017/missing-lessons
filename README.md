@@ -1,13 +1,11 @@
-# TonyCrane's Slide Template
+# YUNA MissingLessons Slide
 
-一个 [reveal-md](https://github.com/webpro/reveal-md) 的简单主题，部分参考了 [jyywiki](https://jyywiki.cn) 的主题。（应该会随着我的使用不断更新）
+credit:  [@TonyCrane](https://github.com/TonyCrane)
 
 预览：https://slides.tonycrane.cc/RevealmdTemplate
 
 - custom.css：亮色主题，载入即可
 - dark.css：暗色配置，使用需附带在 custom.css 后面
-
-~~对于我这种停留在 html+css 的前端水平，当然是宁可多糊 html 也不愿意写个预处理插件。~~ 在 `.vscode/snippets.code-snippets` 中是一些方便糊 html 的代码片段。
 
 ## 构建与部署
 
